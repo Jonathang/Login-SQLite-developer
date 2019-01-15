@@ -1,0 +1,5 @@
+
+        <item name="android:textColor">@color/negro</item>
+        <item name="android:textColorHint">@color/negro</item>
+        <item name="colorControlNormal">@color/negro</item>
+        <item name="colorControlActivated">@color/negro</item>
