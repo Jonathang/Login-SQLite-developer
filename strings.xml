@@ -1,4 +1,4 @@
-  <string name="text_accounts">All Accounts</string>
+    <string name="text_accounts">All Accounts</string>
     <string name="hint_name">Nombre</string>
     <string name="hint_email">Correo Electronico</string>
     <string name="hint_password">Contraseña</string>
